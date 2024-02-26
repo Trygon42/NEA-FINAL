@@ -1,0 +1,39 @@
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.AssemblyReference.cache
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.AddPatient.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.DischargePatient.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.Login.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.MainMenu.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.Resources.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.Patients.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.SelectedPatient.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.GenerateResource.cache
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\bin\Debug\The NEA Project.exe.config
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\bin\Debug\The NEA Project.exe
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\bin\Debug\The NEA Project.pdb
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\bin\Debug\The NEA Project.xml
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.exe
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.xml
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The NEA Project.pdb
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.DischargedPatients.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\bin\Debug\The NEA Project.exe.config
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\bin\Debug\The NEA Project.exe
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\bin\Debug\The NEA Project.pdb
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\bin\Debug\The NEA Project.xml
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.AssemblyReference.cache
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.AddPatient.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.DischargedPatients.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.DischargePatient.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.Login.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.MainMenu.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.Resources.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.Patients.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.SelectedPatient.resources
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.GenerateResource.cache
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The NEA Project.vbproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The NEA Project.exe
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The NEA Project.xml
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The NEA Project.pdb
+C:\Users\samue\Desktop\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.AddUser.resources
+C:\Users\samue\Desktop\NEA work\The NEA Project\The NEA Project\obj\Debug\The_NEA_Project.AddUser.resources

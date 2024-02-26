@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+The NEA Project
+</name>
+</assembly>
+<members>
+<member name="T:The_NEA_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:The_NEA_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:The_NEA_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:The_NEA_Project.AddPatient">
+ <summary>
+ Basic form used to take data input from user and add patient
+ </summary>
+</member>
+<member name="T:The_NEA_Project.AddUser">
+ <summary>
+ Form to add user
+ takes users details and adds them to a CSV so they can login
+ </summary>
+ 
+</member>
+<member name="M:The_NEA_Project.DischargedPatients.DischargedPatients_Load(System.Object,System.EventArgs)">
+ <summary>
+ Shows a datagrid where all discharged patients can be viewed
+ </summary>
+ 
+</member>
+<member name="M:The_NEA_Project.DischargePatient.DischargePatient_Load(System.Object,System.EventArgs)">
+ <summary>
+ A form to discharge patients 
+ Moves selected patinet record from main patients csv to discharged patients CSV
+ </summary>
+</member>
+<member name="T:The_NEA_Project.Login">
+ <summary>
+ Starting form
+ Login form, checks username and password against User csv file 
+ </summary>
+</member>
+<member name="M:The_NEA_Project.MainMenu.s_Click(System.Object,System.EventArgs)">
+ <summary>
+ Main menu of program 
+ Used to navigate between forms
+ </summary>
+</member>
+<member name="T:The_NEA_Project.Patients">
+ <summary>
+ This form shows a datagrid with all patients on it 
+ It has a variaty of differnet ways in which the user can manage the patients 
+ </summary>
+</member>
+<member name="T:The_NEA_Project.SelectedPatient">
+ <summary>
+ A menu used to edit and show a specific Patient 
+ </summary>
+</member>
+</members>
+</doc>
